@@ -6,3 +6,7 @@ Scrapers written to gather data for a CSSL Lab project funded by the National In
 
   run NIH.sql
   run whichever parser script you want
+
+# Contents
+ 
+  imsdb movie script scraper
